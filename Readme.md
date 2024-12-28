@@ -1,4 +1,4 @@
-# aws-cloudformation-static-web
+# AWS Cloudformation Static Web
 
 Automated deployment of a static website using AWS CloudFormation, demonstrating Infrastructure as Code and cloud architecture skills.
 
